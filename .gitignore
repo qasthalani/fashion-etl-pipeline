@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Google Service Account Key
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Pytest & coverage
+.pytest_cache/
+.coverage
+
+# Logs
+etl_pipeline.log
