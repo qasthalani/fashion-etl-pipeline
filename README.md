@@ -245,5 +245,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/your-username">Daffa</a>
+  Built with dedication by <a href="https://github.com/qasthalaani">Yasmin Qasthalani</a>
 </p>
