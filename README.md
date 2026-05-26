@@ -5,6 +5,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Coverage](https://img.shields.io/badge/Coverage-95%25-brightgreen?logo=pytest&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-50%20passed-brightgreen?logo=pytest&logoColor=white)
 
 An end-to-end **ETL (Extract, Transform, Load) pipeline** built with Python that scrapes fashion product data from [Fashion Studio](https://fashion-studio.dicoding.dev/), cleans and transforms it, then loads it into three destinations: a local CSV file, Google Sheets, and a PostgreSQL database.
 
